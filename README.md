@@ -11,8 +11,8 @@ Interface de login simples desenvolvida em Python com a biblioteca CustomTkinter
 - CustomTkinter
 
 🚀 Como executar
-1. pip install customtkinter
-2. python main.py
+- pip install customtkinter
+- python main.py
 
 ![Tela de Login](img.png) | ![Mensagem de erro](img_erro.png)
 
